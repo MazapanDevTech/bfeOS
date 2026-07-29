@@ -4,8 +4,8 @@
 
 <h1 align="center">bfeOS — Windows Limpio, Privado y Listo para Usar</h1>
 
-![Windows 11](https://img.shields.io/badge/Compatibilidad-Windows%2010%20%2F%2011-blue?logo=windows)
-![Estado](https://img.shields.io/badge/Estado-Estable-brightgreen)
+![Windows 11](https://img.shields.io/badge/Versiones-Windows%2010%20%2F%2011-blue?logo=windows)
+![Estado](https://img.shields.io/badge/Estado-Stable-brightgreen)
 ![Licencia](https://img.shields.io/badge/Licencia-MIT-orange)
 
 **bfeOS** es una versión optimizada de Windows diseñada para ofrecer el máximo rendimiento, eliminar el bloatware innecesario, proteger tu privacidad y proporcionar una experiencia limpia y lista para usar desde el primer inicio.
@@ -36,13 +36,13 @@
 
 > ⚠️ **Nota:** Se recomienda realizar una copia de seguridad de tus archivos importantes antes de proceder con la instalación.
 
-### 1. Descargar la Imagen / Script
+### 1. Descargar la Imagen ISO de bfeOS
 Puedes descargar la versión más reciente o la que deseas instalar en la sección de [Releases](../../releases).
 
 ### 2. Crear un USB Booteable
 Para grabar la ISO en un pendrive, recomendamos usar **Rufus**:
 - [Descargar Rufus](https://rufus.ie/)
-- Formato recomendado: **GPT / UEFI** o **MBR / Legacy** según tu tarjeta madre.
+- Formato recomendado: **GPT / UEFI** o **MBR / Legacy** según tu tarjeta madre (Recomendamos usar GPT UEFI).
 
 ### 3. Instalación
 1. Conecta el USB a tu PC y reinicia ingresando al menú de arranque (Boot Menu).
@@ -51,4 +51,9 @@ Para grabar la ISO en un pendrive, recomendamos usar **Rufus**:
 
 ---
 
-## 
+## ❤️ Donaciones
+
+bfeOS es un proyecto sin fines de lucro, mas sin embargo tu apoyo nos motiva a seguir dando soporte al sistema. Puedes apoyar directamente al creador de la comunidad CardinalOnix comprando tu sub en su canal de [Twitch](https://twitch.tv/CardinalOnix) o dejando tu mejora en nuestro [servidor de Discord](https://discord.com/invite/XK6F8g6CaP) dentro del cual podrás comentarnos sobre errores que pasan en tu instalación de bfeOS.
+
+---
+
