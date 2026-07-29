@@ -1,4 +1,8 @@
-# ⚡ bfeOS — Windows Limpio, Privado y Listo para Usar
+<p align="center">
+  <img src="assets/LogoBFEOS.png" alt="bfeOS Logo" width="830">
+</p>
+
+<h1 align="center">bfeOS — Windows Limpio, Privado y Listo para Usar</h1>
 
 ![Windows 11](https://img.shields.io/badge/Compatibilidad-Windows%2010%20%2F%2011-blue?logo=windows)
 ![Estado](https://img.shields.io/badge/Estado-Estable-brightgreen)
