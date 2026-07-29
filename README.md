@@ -4,7 +4,7 @@
 ![Estado](https://img.shields.io/badge/Estado-Estable-brightgreen)
 ![Licencia](https://img.shields.io/badge/Licencia-MIT-orange)
 
-**bfeOS** es una versión/modificación optimizada de Windows diseñada para ofrecer el máximo rendimiento, eliminar el bloatware innecesario, proteger tu privacidad y proporcionar una experiencia limpia y lista para usar desde el primer inicio.
+**bfeOS** es una versión optimizada de Windows diseñada para ofrecer el máximo rendimiento, eliminar el bloatware innecesario, proteger tu privacidad y proporcionar una experiencia limpia y lista para usar desde el primer inicio.
 
 ---
 
