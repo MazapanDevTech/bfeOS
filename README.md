@@ -1,6 +1,6 @@
 # ⚡ bfeOS — Windows Limpio, Privado y Listo para Usar
 
-![Windows 10/11](https://img.shields.io/badge/Compatibilidad-Windows%2010%20%2F%2011-blue?logo=windows)
+![Windows 11](https://img.shields.io/badge/Compatibilidad-Windows%2010%20%2F%2011-blue?logo=windows)
 ![Estado](https://img.shields.io/badge/Estado-Estable-brightgreen)
 ![Licencia](https://img.shields.io/badge/Licencia-MIT-orange)
 
@@ -25,16 +25,15 @@
 | **Privacidad** | Desactivación de Telemetría, Bing Search en el menú inicio, Keylogger de Windows y Diagnósticos. |
 | **Rendimiento** | Optimización de plan de energía, reducción de latencia del sistema y servicios innecesarios detenidos. |
 | **Interfaz** | Menú contextual limpio, explorador de archivos ágil y sin distracciones. |
-| **Redes** | Optimizaciones en la pila TCP/IP y desactivación de descargas automáticas en segundo plano. |
 
 ---
 
 ## 📥 Descarga e Instalación
 
-> ⚠️ **Nota:** Se recomienda realizar una copia de seguridad de tus archivos importantes antes de procedes con la instalación.
+> ⚠️ **Nota:** Se recomienda realizar una copia de seguridad de tus archivos importantes antes de proceder con la instalación.
 
 ### 1. Descargar la Imagen / Script
-Puedes descargar la versión más reciente en la sección de [Releases](../../releases).
+Puedes descargar la versión más reciente o la que deseas instalar en la sección de [Releases](../../releases).
 
 ### 2. Crear un USB Booteable
 Para grabar la ISO en un pendrive, recomendamos usar **Rufus**:
@@ -48,11 +47,4 @@ Para grabar la ISO en un pendrive, recomendamos usar **Rufus**:
 
 ---
 
-## ⚙️ Post-Instalación (Opcional)
-
-Si utilizas un script de personalización adicional o quieres instalar software esencial rápidamente con `winget`:
-
-```cmd
-winget install --id Git.Git -e
-winget install --id Mozilla.Firefox -e
-winget install --id 7zip.7zip -e
+## 
